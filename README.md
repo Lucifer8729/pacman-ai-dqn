@@ -49,5 +49,4 @@ PACMAN is an iconic arcade game from Atari 2600. This game is redesigned in such
 
 The PACMAN problem environment helps us in understanding the Reinforcement algorithm concepts. This game environment can be related to real world scenarios and the model built can be used to solve using the deep reinforcement algorithms.
 Eg: This model can be used to navigate people past dynamic obstacles in an optimistic path.
-![image](https://user-images.githubusercontent.com/72292326/162112725-6d66e61b-71bd-4197-88a7-d79b81b7f41d.png)
 
