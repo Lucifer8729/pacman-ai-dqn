@@ -3,8 +3,9 @@
 
 <div align="center">
   <h3 align="center">Pacman AI DQN</h3>
+  <img align="center" src=https://user-images.githubusercontent.com/72292326/162111606-174b99c0-62e5-4a31-81f7-f4c6bf6e968d.png alt="Logo" width="100" height="100">
   <p align="center">
-    An awesome Multi User Collaborative Document to make documentations and reports on group projects easier!
+    To provide an AI based approach to find an optimal and safer path for the PACMAN to eat all the food particles without getting attacked by the ghost with the available lifelines.
   </p>
 </div>
 
