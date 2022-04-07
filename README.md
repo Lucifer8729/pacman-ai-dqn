@@ -38,11 +38,8 @@ PACMAN is an iconic arcade game from Atari 2600. This game is redesigned in such
 
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Mongodb](https://www.mongodb.com/)
-* [Node.js](https://nodejs.org/en/)
-* [Quill.js](https://quilljs.com/)
-* [Socket.io](https://socket.io/)
+* Open-AI's Gym Toolkit
+* DQN: Deep Q Network
 
 
 
@@ -50,5 +47,7 @@ PACMAN is an iconic arcade game from Atari 2600. This game is redesigned in such
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-A Collaborative Document can be used for teams working on the same project. Instead of working on separate documents, they can use the Collaborative Document to work together in real time.
-Any changes made in the doc will be visible to all users with the link so the same document doesn’t need to be shared multiple times. This saves time and increases efficiency in working.
+The PACMAN problem environment helps us in understanding the Reinforcement algorithm concepts. This game environment can be related to real world scenarios and the model built can be used to solve using the deep reinforcement algorithms.
+Eg: This model can be used to navigate people past dynamic obstacles in an optimistic path.
+![image](https://user-images.githubusercontent.com/72292326/162112725-6d66e61b-71bd-4197-88a7-d79b81b7f41d.png)
+
