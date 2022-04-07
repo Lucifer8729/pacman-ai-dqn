@@ -1,4 +1,4 @@
-# pacman-ai-dqn
+<!-- # pacman-ai-dqn -->
 <!-- ![image](https://user-images.githubusercontent.com/72292326/136656848-46fae12a-8f70-401e-976a-0483806231b0.png) -->
 
 <div align="center">
@@ -31,7 +31,7 @@
 
 <img src=https://user-images.githubusercontent.com/72292326/162111031-b8da3bd1-2e39-4bab-9c2d-a37c25214abf.png />
 
-PACMAN is an iconic arcade game from Atari 2600. This game is redesigned in such a way that an AI model understands the environment and the current situation and plays accordingly. The game environment is used from OpenAI’s gym framework which has got the environment of similar arcade games. The actors in this environment are trained using DQN model which follows Q-learning approach to present rewards to the model.![image](https://user-images.githubusercontent.com/72292326/162110850-af61dedc-fa3b-42ce-a16c-ce55d2d53a1a.png)
+PACMAN is an iconic arcade game from Atari 2600. This game is redesigned in such a way that an AI model understands the environment and the current situation and plays accordingly. The game environment is used from OpenAI’s gym framework which has got the environment of similar arcade games. The actors in this environment are trained using DQN model which follows Q-learning approach to present rewards to the model.
 
 
 
